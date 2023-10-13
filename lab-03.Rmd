@@ -84,13 +84,13 @@ VERY FIVE
 ```{r pivoting}
 ## Uncomment and complete the following code
 
-#staff_long <- staff %>%
-#  pivot_longer(
-#    cols = -faculty_type, 
-#    names_to = "year",
-#    values_to = "faculty_count"
-#    )
-
+staff_long <- staff %>%
+  pivot_longer(
+    cols = -faculty_type, 
+    names_to = "year",
+    values_to = "faculty_count"
+    )
+print(staff_long)
 ```
 
 
