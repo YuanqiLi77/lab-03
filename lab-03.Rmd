@@ -20,9 +20,8 @@ library(ggplot2)
 ```{r echo=FALSE, out.width="100%"}
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
-
-_Write your comments about image 1 below_
-
+Long format data is characterized by having fewer columns and more rows.
+Wide format data is characterized by having a large number of columns and a relatively small number of rows.
 
 
 
