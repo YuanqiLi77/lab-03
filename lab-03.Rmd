@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "Yuanqi Li, Yiwen Guan, Zhiyue Liu and User4 - Team Name"
+author: "Yuanqi Li, Yiwen Guan, Zhiyue Liu and Zicheng Wang - IDS-Haters"
 date: "`r Sys.Date()`"
 output: html_document
 ---
